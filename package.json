@@ -1,10 +1,10 @@
 {
-  "name": "react-mounter",
+  "name": "react-mounter-bensventures-flow-router-ssr",
   "version": "1.0.0",
-  "description": "React Mounter lets you mount React components to DOM easily.",
+  "description": "React Mounter lets you mount React components to DOM easily.Compatible with bensventures:flow-router-ssr",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kadirahq/react-mounter.git"
+    "url": "https://github.com/goriintus/react-mounter.git"
   },
   "license": "MIT",
   "options": {
